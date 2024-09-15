@@ -1,7 +1,7 @@
 # 
 # OIB-SIP_Oasis_Infobyte_Intership
 
------------INTERSHIP OPRAGRAM BY OASIS INFOBYTE ---------------
+-----------INTERSHIP PROGRAM BY OASIS INFOBYTE ---------------
 
 
 ## 🔗 Links
